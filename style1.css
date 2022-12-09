@@ -1,0 +1,16 @@
+body {
+    font-size: 16px;
+    background-color: #61122f;
+    font-family: 'Oxygen', sans-serif;
+  }
+  
+  #header-nav {
+    background-color: gold;
+  }
+  
+  #logo-img {
+    background: url("BurgerKING1.png") no-repeat;
+    width: 152px;
+    height: 152px;
+    margin: 10px 15px 10px 0;
+  }
